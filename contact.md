@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-**Email:** jclozanoc at unal.edu.co
+**Email:** jclozanoc [at] unal [dot] edu [dot] co
 
 **Location:** Medellín, Colombia
 
