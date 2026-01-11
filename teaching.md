@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Courses
 - **Applied Discrete Mathematics (Spring 2024, UCSC)** — GSI.  
-  Logic, mathematicl proofs and CS related math topics.
+  Logic, mathematical proofs and CS related math topics.
   
 - **Applied Discrete Mathematics (Spring 2020, Fall 2023, Fall 2024, UCSC)** - TA.  
   Class sections, class website management, rubric and grading preparation. 
