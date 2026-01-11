@@ -14,4 +14,4 @@ I work on **cybersecurity for cyber-physical systems**, with a focus on **power-
 - **Email:** jclozanoc [at] unal [dot] edu [dot] co 
 - **ORCID:** [Link](https://orcid.org/0000-0003-1998-7899)
 - **Google Scholar:** [Link](https://scholar.google.com/citations?user=REWcf5AAAAAJ&hl=en)
-- **CV** [Link](https://drive.google.com/file/d/1dkgQm0-84p0oJBxhXLH7t4WbxzqtZCp5/view?usp=sharing)
+- **CV** [Link](/files/cv.pdf)
