@@ -8,4 +8,3 @@ permalink: /contact/
 
 **Location:** Medellín, Colombia
 
-**Google Scholar:** [Link](https://scholar.google.com/citations?user=REWcf5AAAAAJ&hl=en)
