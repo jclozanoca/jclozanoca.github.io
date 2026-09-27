@@ -6,5 +6,5 @@ permalink: /contact/
 
 **Email:** jclozanoc [at] unal [dot] edu [dot] co
 
-**Location:** Medellín, Colombia
+**Location:** Bogotá, Colombia
 
