@@ -4,14 +4,27 @@ title: Home
 permalink: /
 ---
 
-**Juan Camilo Lozano Carrillo**  
-PhD, Computer Science and Engineering (UCSC)
+<div class="academic-profile">
+  <div class="profile-photo">
+    <img src="{{ site.profile_image | relative_url }}"
+         alt="Juan Camilo Lozano Carrillo">
+  </div>
 
-I work on **cybersecurity for cyber-physical systems**, with a focus on **power-grid/ICS protocols**, threat modeling, and applied machine learning for security analytics.
+  <div class="profile-details">
+    <h2>Juan Camilo Lozano Carrillo</h2>
+    <p><strong>PhD, Computer Science and Engineering (UCSC)</strong></p>
 
-**Research interests:** Power-grid security (IEC 61850), CPS threat modeling, adversarial behavior in ICS, ML for security and Data Science for Security
+    <p>
+      I work on <strong>cybersecurity for cyber-physical systems</strong>,
+      with a focus on <strong>power-grid/ICS protocols</strong>,
+      threat modeling, and applied machine learning for security analytics.
+    </p>
+  </div>
+</div>
 
-- **Email:** jclozanoc [at] unal [dot] edu [dot] co 
+**Research interests:** Power-grid security (IEC 61850), CPS threat modeling, adversarial behavior in ICS, ML for security, and Data Science for Security.
+
+- **Email:** jclozanoc [at] unal [dot] edu [dot] co
 - **ORCID:** [Link](https://orcid.org/0000-0003-1998-7899)
 - **Google Scholar:** [Link](https://scholar.google.com/citations?user=REWcf5AAAAAJ&hl=en)
-- **CV** [Link](/files/cv.pdf)
+- **CV:** [Link]({{ '/files/cv.pdf' | relative_url }})

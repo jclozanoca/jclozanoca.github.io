@@ -4,6 +4,8 @@ url: "https://juanclozano.com"
 baseurl: ""
 build_year: "2025"
 
+profile_image: "/assets/images/profile.png"
+
 theme: minima
 
 header_pages:
