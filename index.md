@@ -6,8 +6,12 @@ permalink: /
 
 <div class="academic-profile">
   <div class="profile-photo">
-    <img src="{{ site.profile_image | relative_url }}"
-         alt="Juan Camilo Lozano Carrillo">
+    <img
+        src="{{ site.profile_image | relative_url }}"
+        alt="Juan Camilo Lozano Carrillo"
+        width="{{ site.profile_image_size }}"
+        height="{{ site.profile_image_size }}"
+    >
   </div>
 
   <div class="profile-details">
