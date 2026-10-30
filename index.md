@@ -17,6 +17,8 @@ permalink: /
   <div class="profile-details">
     <h2>Juan Camilo Lozano Carrillo</h2>
     <p><strong>PhD, Computer Science and Engineering (UCSC)</strong></p>
+    <p><strong>MSc, Computer Science and Engineering (UCSC)</strong></p>
+    <p><strong>MSc, Biomedical Engineering (UNal Colombia)</strong></p>
 
     <p>
       I work on <strong>cybersecurity for cyber-physical systems</strong>,
