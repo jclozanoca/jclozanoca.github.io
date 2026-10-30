@@ -10,7 +10,6 @@ profile_image_size: 190
 theme: minima
 
 header_pages:
-  - index.md
   - research.md
   - publications.md
   - teaching.md
